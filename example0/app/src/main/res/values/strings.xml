@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">example0</string>
+    <string name="how_many">How many?</string>
+    <string-array name="shoplistItems">
+        <item>Toilet Paper</item>
+        <item>Shampoo</item>
+        <item>Green Tea</item>
+        <item>Tissues</item>
+        <item>Cocoa 70%</item>
+    </string-array>
+    <string-array name="shoplistPrices">
+        <item>460 Y</item>
+        <item>780 Y</item>
+        <item>1080 Y</item>
+        <item>230 Y</item>
+        <item>380 Y</item>
+    </string-array>
+    <string-array name="descrItems">
+        <item>Plain toilet paper</item>
+        <item>Shampoo and conditioner</item>
+        <item>Produced in Shizuoka</item>
+        <item>Kleenex</item>
+        <item>Meiji 70% cacao</item>
+    </string-array>
+</resources>

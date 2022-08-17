@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">sqlLiteApp</string>
+    <string name="customerName">Product Name</string>
+    <string name="customerAge">Items #</string>
+    <string name="activeCustomer">クーポン有・無</string>
+    <string name="ApproxPrice">Price/unit</string>
+</resources>
